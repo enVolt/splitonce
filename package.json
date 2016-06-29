@@ -1,0 +1,36 @@
+{
+  "dependencies": {},
+  "description": "A simple utility to split a string with specified seperator only once",
+  "devDependencies": {
+  },
+  "directories": {},
+  "files": [
+    "app.js"
+  ],
+  "homepage": "https://github.com/envolt/splitonce",
+  "keywords": [
+    "split",
+    "javascript",
+    "string"
+  ],
+  "licenses": [
+  ],
+  "main": "./app",
+  "maintainers": [
+    {
+      "email": "ashwani.a@outlook.com",
+      "name": "Ashwani Agarwal"
+    }
+  ],
+  "name": "splitonce",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/envolt/splitonce.git"
+  },
+  "scripts": {
+  },
+  "version": "0.1.0"
+}
+
